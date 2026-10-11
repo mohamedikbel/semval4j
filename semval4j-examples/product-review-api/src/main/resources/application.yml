@@ -1,0 +1,9 @@
+semval4j:
+  enabled: true
+  provider: typesafe
+  api-key: ${TYPESAFE_API_KEY}
+  model: jev-latest
+
+spring:
+  application:
+    name: product-review-api

@@ -1,0 +1,7 @@
+# Demo profile: runs the API locally without a real TypeSafe API key.
+# The demo provider bean (DemoSemanticConfiguration) replaces the real one.
+semval4j:
+  enabled: true
+  provider: typesafe
+  api-key: demo-not-a-real-key
+  model: jev-latest
