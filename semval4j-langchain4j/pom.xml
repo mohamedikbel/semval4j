@@ -7,12 +7,12 @@
   <parent>
     <groupId>io.github.mohamedikbel</groupId>
     <artifactId>semval4j-parent</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
   </parent>
 
   <artifactId>semval4j-langchain4j</artifactId>
   <name>SemVal4j LangChain4j Adapter</name>
-  <description>Adapts LangChain4j-style DecisionModel APIs to the SemVal4j provider SPI, with batching.</description>
+  <description>SemVal4j Decision Model port — LangChain4j-style DecisionModel interface and batching adapter connecting any Decision Model to the SemVal4j provider SPI (one call per validated object).</description>
 
   <dependencies>
     <dependency>

@@ -6,11 +6,11 @@
 
   <groupId>io.github.mohamedikbel</groupId>
   <artifactId>semval4j-parent</artifactId>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <packaging>pom</packaging>
 
   <name>SemVal4j Parent</name>
-  <description>Probabilistic semantic validation for Java, powered by Decision Models</description>
+  <description>SemVal4j — Probabilistic semantic validation for Java. Extends Jakarta Bean Validation with meaning-aware rules evaluated by Decision Models (Jev), with explicit uncertainty handling and single-call batching.</description>
   <url>https://github.com/mohamedikbel/semval4j</url>
 
   <licenses>

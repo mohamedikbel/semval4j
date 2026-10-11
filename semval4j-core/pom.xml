@@ -7,12 +7,12 @@
   <parent>
     <groupId>io.github.mohamedikbel</groupId>
     <artifactId>semval4j-parent</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
   </parent>
 
   <artifactId>semval4j-core</artifactId>
   <name>SemVal4j Core</name>
-  <description>Semantic validation model, engine, thresholds and provider SPI. No framework dependencies.</description>
+  <description>SemVal4j core — semantic validation model, threshold engine with explicit VALID / UNCERTAIN / INVALID outcomes, and provider SPI. Zero framework dependencies: pure Java 21.</description>
 
   <dependencies>
     <dependency>

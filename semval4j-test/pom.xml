@@ -7,12 +7,12 @@
   <parent>
     <groupId>io.github.mohamedikbel</groupId>
     <artifactId>semval4j-parent</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
   </parent>
 
   <artifactId>semval4j-test</artifactId>
   <name>SemVal4j Test Support</name>
-  <description>Deterministic fake providers so tests never call external Decision Models.</description>
+  <description>SemVal4j test support — deterministic fake Decision Model provider with invocation recording: run mvn test with no network, no API key, and prove batching behaviour.</description>
 
   <dependencies>
     <dependency>

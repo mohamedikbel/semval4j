@@ -7,12 +7,12 @@
   <parent>
     <groupId>io.github.mohamedikbel</groupId>
     <artifactId>semval4j-parent</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
   </parent>
 
   <artifactId>semval4j-spring-boot-starter</artifactId>
   <name>SemVal4j Spring Boot Starter</name>
-  <description>Spring Boot auto-configuration for SemVal4j semantic validation.</description>
+  <description>SemVal4j Spring Boot starter — add one dependency, annotate your beans with @SemanticRule, keep using @Valid. Auto-configures probabilistic semantic validation against the Jev Decision Model.</description>
 
   <dependencies>
     <dependency>

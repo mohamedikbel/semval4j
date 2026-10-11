@@ -7,12 +7,12 @@
   <parent>
     <groupId>io.github.mohamedikbel</groupId>
     <artifactId>semval4j-parent</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
   </parent>
 
   <artifactId>semval4j-jakarta</artifactId>
   <name>SemVal4j Jakarta Validation</name>
-  <description>@SemanticValid / @SemanticRule annotations and ConstraintValidator integration.</description>
+  <description>SemVal4j Jakarta Validation integration — @SemanticValid and @SemanticRule annotations plus a ConstraintValidator that turns failed semantic rules into standard ConstraintViolations. Keep using @Valid.</description>
 
   <dependencies>
     <dependency>

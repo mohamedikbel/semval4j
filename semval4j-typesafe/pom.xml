@@ -7,12 +7,12 @@
   <parent>
     <groupId>io.github.mohamedikbel</groupId>
     <artifactId>semval4j-parent</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
   </parent>
 
   <artifactId>semval4j-typesafe</artifactId>
   <name>SemVal4j TypeSafe/Jev Provider</name>
-  <description>Convenience Jev/TypeSafe Decision Model provider over HTTP.</description>
+  <description>SemVal4j Jev provider — production client for TypeSafe's Jev Decision Model (System One API): batched noul questions, calibrated probabilities, enforced timeouts, secrets kept out of payloads.</description>
 
   <dependencies>
     <dependency>
